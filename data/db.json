@@ -1,0 +1,70 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "name": "Computer",
+      "price": "9000",
+      "checked": true
+    },
+    {
+      "id": "3",
+      "name": "Computer",
+      "price": 5600,
+      "checked": false
+    },
+    {
+      "id": "c5be",
+      "name": "pc",
+      "price": "6000",
+      "checked": true
+    },
+    {
+      "id": "5fee",
+      "name": "imprimante",
+      "price": "60000",
+      "checked": true
+    },
+    {
+      "name": "TEST",
+      "price": 0,
+      "checked": true,
+      "id": "ENF5zNz"
+    },
+    {
+      "name": "TEST",
+      "price": 0,
+      "checked": true,
+      "id": "D8UegIe"
+    },
+    {
+      "id": "YPQjp1Z",
+      "name": "L",
+      "price": "630",
+      "checked": false
+    },
+    {
+      "name": "dell",
+      "price": "4000",
+      "checked": false,
+      "id": "i5YkTOZ"
+    },
+    {
+      "name": "imprimante",
+      "price": "12345",
+      "checked": true,
+      "id": "9XTeMI7"
+    }
+  ],
+  "users": [
+    {
+      "id": "user1",
+      "password": "MTIzNA==",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMSIsIm5hbWUiOiJVc2VyMSIsImVtYWlsIjoidXNlcjFAZ21haWwuY29tIiwiaWF0IjoxNTE2MjM5MDIyLCJyb2xlcyI6WyJVU0VSIl19.athVfrz8HqlhFy7opZyvFuLQgN7FYGUngNQEPbaR9wE"
+    },
+    {
+      "id": "admin",
+      "password": "MTIzNA==",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbiIsIm5hbWUiOiJNb2hhbWVkIiwiZW1haWwiOiJhZG1pbkBnbWFpbC5jb20iLCJpYXQiOjE1MTYyMzkwMjIsInJvbGVzIjpbIlVTRVIiLCJBRE1JTiJdfQ.7FTLbjuAtqtfeKNLXeWvPmKQoD01miwQ51xzK3mWksg"
+    }
+  ]
+}
